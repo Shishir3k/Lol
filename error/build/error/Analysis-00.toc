@@ -1,5 +1,6 @@
-(['D:\\lol\\error.py'],
- ['D:\\lol'],
+(['D:\\Shishir\\Business\\coding '
+  'playground\\Projects\\python\\error\\error.py'],
+ ['D:\\Shishir\\Business\\coding playground\\Projects\\python\\error'],
  [],
  ['C:\\Users\\Utsav '
   'Gamerz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_pyinstaller',
@@ -22,7 +23,10 @@
    'C:\\Users\\Utsav '
    'Gamerz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
    'PYSOURCE'),
-  ('error', 'D:\\lol\\error.py', 'PYSOURCE')],
+  ('error',
+   'D:\\Shishir\\Business\\coding '
+   'playground\\Projects\\python\\error\\error.py',
+   'PYSOURCE')],
  [('inspect',
    'C:\\Users\\Utsav '
    'Gamerz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\inspect.py',
@@ -427,13 +431,13 @@
    'C:\\Users\\Utsav '
    'Gamerz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\signal.py',
    'PYMODULE'),
-  ('_py_abc',
-   'C:\\Users\\Utsav '
-   'Gamerz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_py_abc.py',
-   'PYMODULE'),
   ('stringprep',
    'C:\\Users\\Utsav '
    'Gamerz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Utsav '
+   'Gamerz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_py_abc.py',
    'PYMODULE'),
   ('ctypes',
    'C:\\Users\\Utsav '
@@ -493,4 +497,7 @@
    'BINARY')],
  [],
  [],
- [('base_library.zip', 'D:\\lol\\build\\error\\base_library.zip', 'DATA')])
+ [('base_library.zip',
+   'D:\\Shishir\\Business\\coding '
+   'playground\\Projects\\python\\error\\build\\error\\base_library.zip',
+   'DATA')])

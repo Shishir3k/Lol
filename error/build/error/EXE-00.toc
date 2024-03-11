@@ -1,7 +1,8 @@
-('D:\\lol\\build\\error\\error.exe',
+('D:\\Shishir\\Business\\coding '
+ 'playground\\Projects\\python\\error\\dist\\error.exe',
  True,
  False,
- True,
+ False,
  'C:\\Users\\Utsav '
  'Gamerz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-console.ico',
  None,
@@ -30,21 +31,32 @@
  None,
  None,
  None,
- 'D:\\lol\\build\\error\\error.pkg',
+ 'D:\\Shishir\\Business\\coding '
+ 'playground\\Projects\\python\\error\\build\\error\\error.pkg',
  [('pyi-contents-directory _internal', '', 'OPTION'),
-  ('PYZ-00.pyz', 'D:\\lol\\build\\error\\PYZ-00.pyz', 'PYZ'),
-  ('struct', 'D:\\lol\\build\\error\\localpycs\\struct.pyc', 'PYMODULE'),
+  ('PYZ-00.pyz',
+   'D:\\Shishir\\Business\\coding '
+   'playground\\Projects\\python\\error\\build\\error\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'D:\\Shishir\\Business\\coding '
+   'playground\\Projects\\python\\error\\build\\error\\localpycs\\struct.pyc',
+   'PYMODULE'),
   ('pyimod01_archive',
-   'D:\\lol\\build\\error\\localpycs\\pyimod01_archive.pyc',
+   'D:\\Shishir\\Business\\coding '
+   'playground\\Projects\\python\\error\\build\\error\\localpycs\\pyimod01_archive.pyc',
    'PYMODULE'),
   ('pyimod02_importers',
-   'D:\\lol\\build\\error\\localpycs\\pyimod02_importers.pyc',
+   'D:\\Shishir\\Business\\coding '
+   'playground\\Projects\\python\\error\\build\\error\\localpycs\\pyimod02_importers.pyc',
    'PYMODULE'),
   ('pyimod03_ctypes',
-   'D:\\lol\\build\\error\\localpycs\\pyimod03_ctypes.pyc',
+   'D:\\Shishir\\Business\\coding '
+   'playground\\Projects\\python\\error\\build\\error\\localpycs\\pyimod03_ctypes.pyc',
    'PYMODULE'),
   ('pyimod04_pywin32',
-   'D:\\lol\\build\\error\\localpycs\\pyimod04_pywin32.pyc',
+   'D:\\Shishir\\Business\\coding '
+   'playground\\Projects\\python\\error\\build\\error\\localpycs\\pyimod04_pywin32.pyc',
    'PYMODULE'),
   ('pyiboot01_bootstrap',
    'C:\\Users\\Utsav '
@@ -54,11 +66,66 @@
    'C:\\Users\\Utsav '
    'Gamerz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
    'PYSOURCE'),
-  ('error', 'D:\\lol\\error.py', 'PYSOURCE')],
+  ('error',
+   'D:\\Shishir\\Business\\coding '
+   'playground\\Projects\\python\\error\\error.py',
+   'PYSOURCE'),
+  ('python312.dll',
+   'C:\\Users\\Utsav '
+   'Gamerz\\AppData\\Local\\Programs\\Python\\Python312\\python312.dll',
+   'BINARY'),
+  ('_decimal.pyd',
+   'C:\\Users\\Utsav '
+   'Gamerz\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\Utsav '
+   'Gamerz\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\Utsav '
+   'Gamerz\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\Utsav '
+   'Gamerz\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\Utsav '
+   'Gamerz\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\Utsav '
+   'Gamerz\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\Utsav '
+   'Gamerz\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\Utsav '
+   'Gamerz\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Utsav '
+   'Gamerz\\AppData\\Local\\Programs\\Python\\Python312\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'C:\\Users\\Utsav '
+   'Gamerz\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('libffi-8.dll',
+   'C:\\Users\\Utsav '
+   'Gamerz\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\libffi-8.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'D:\\Shishir\\Business\\coding '
+   'playground\\Projects\\python\\error\\build\\error\\base_library.zip',
+   'DATA')],
  [],
  False,
  False,
- 1710156940,
+ 1710158072,
  [('run.exe',
    'C:\\Users\\Utsav '
    'Gamerz\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',
